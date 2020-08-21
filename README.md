@@ -1,10 +1,12 @@
-# randomjoe
+# Random JK
 
 Random number generating  app
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a simple Flutter application to generate random numbers when tapped.
+
+    the documentation will be ready soon
 
 A few resources to get you started if this is your first Flutter project:
 
